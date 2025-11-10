@@ -5,8 +5,8 @@ Snake Game using PyGame
  
  PROBLEM STATEMENT
 
-Normal games often lack interactivity and engagement which in turn limits the learning experience when applying object-oriented programming (OOP).
-The aim of this project is to design and implement an interactive Snake Game using PyGame to demonstrate applications of OOP principles — such as encapsulation, abstraction, inheritance, and polymorphism, while creating a fun and educational programming experience.
+Normal games often lack interactivity which limits the learning experience when applying OOP and engagement which in turn limits the learning experience when applying object-oriented programming (OOP).
+The aim of this project is to design and implement an interactive Snake Game using PyGame to demonstrate applications of OOP principles — such as encapsulation, abstraction, inheritance, and polymorphism, while creating a fun and educational programming experience in a practical and engaging way.
 
  
  
@@ -20,12 +20,14 @@ To implement user input handling, game logic, and collision detection.
 
 To build a playable game with scoring, visual feedback, and potential for extension (levels, speed increase, different snakes etc.).
 
+Make the game scalable for future enhancements like levels, speed variation, or different snakes.
+
 
 
 
 TOOLS AND TERMINOLOGIES TO BE USED
 
-Programming Language: Python 3.14
+Programming Language: Python 3.x
 
 Library: PyGame (for graphics, events, and sound)
 
